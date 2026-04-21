@@ -39,9 +39,9 @@ Irregular. Roughly one article every 1–2 months. **Quality over velocity.**
 
 ## 许可 · License
 
-文章内容采用 [CC BY 4.0](./LICENSE) 许可，可自由转载、翻译、二次创作，**请注明出处并链接回原文**。
+本仓库采用 [MIT License](./LICENSE)。可自由转载、翻译、二次创作与商业使用，保留版权声明即可——但如果你觉得文章对你有帮助，**还是欢迎附上原文链接**。
 
-Content is licensed under [CC BY 4.0](./LICENSE). You're free to share, translate, and adapt — **please credit the source and link back**.
+Licensed under the [MIT License](./LICENSE). Free to share, translate, adapt, and use commercially, as long as the copyright notice is preserved. **A link back is appreciated but not required.**
 
 ---
 
